@@ -1,6 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
-# I didn't know what to write here so here's the entire script of the Bee Movie. Enjoy.
+## I didn't know what to write here so here's the entire script of the Bee Movie. Enjoy.
+
+## Scroll down if you want to see some of my open source Azure projects.
 
 According to all known laws of aviation, there is no way a bee should be able to fly.
 Its wings are too small to get its fat little body off the ground.
